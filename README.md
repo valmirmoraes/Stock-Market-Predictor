@@ -1,1 +1,1 @@
-# FinTech_app
+# Stock Market Predictor
